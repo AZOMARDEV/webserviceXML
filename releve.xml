@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<releve rib="011112222333344445555666">
+    <dateReleve>2023-01-03T18:01:31.786+01:00</dateReleve>
+    <solde>14500.0</solde>
+    <operations dateDebut="2023-01-03T18:01:31.789+01:00" dateFin="2023-01-03T18:01:31.789+01:00">
+        <operations>
+            <type>CREDIT</type>
+            <date>2023-01-03T18:01:31.788+01:00</date>
+            <montant>9000.0</montant>
+            <description>Vers Espèce</description>
+        </operations>
+        <operations>
+            <type>DEBIT</type>
+            <date>2023-01-03T18:01:31.788+01:00</date>
+            <montant>3400.0</montant>
+            <description>Chèque Guichet</description>
+        </operations>
+        <operations>
+            <type>DEBIT</type>
+            <date>2023-01-03T18:01:31.788+01:00</date>
+            <montant>120.0</montant>
+            <description>Prélèvement Assurance</description>
+        </operations>
+        <operations>
+            <type>CREDIT</type>
+            <date>2023-01-03T18:01:31.788+01:00</date>
+            <montant>70000.0</montant>
+            <description>Virement</description>
+        </operations>
+    </operations>
+</releve>
